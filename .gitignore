@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# Extensiones de fotos
+*.jpg
+*.webp
+*.jpeg
+*.png
+*.jfif
+
 # Log file
 *.log
 
