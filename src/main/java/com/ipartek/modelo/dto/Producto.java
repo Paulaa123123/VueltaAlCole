@@ -1,5 +1,13 @@
 package com.ipartek.modelo.dto;
 
+/**
+ * <b>Clase Producto</b>
+ * 
+ * <p>Clase Producto que referencia 
+ * la tabla productos en la BD</p>
+ * @author Paula
+ *
+ */
 public class Producto {
 	
 	
